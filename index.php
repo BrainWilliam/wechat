@@ -1,8 +1,8 @@
 <?php
 
-/*$echostr = $_GET['echostr'];
+$echostr = $_GET['echostr'];
 
-echo $echostr;die;*/
+echo $echostr;die;
 
 include 'function.php';
 include 'tmp.php';
