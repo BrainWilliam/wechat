@@ -7,6 +7,7 @@ echo $echostr;die;*/
 include 'function.php';
 include 'tmp.php';
 
+echo 11;
 $data = file_get_contents('php://input');
 
 if($data){

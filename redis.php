@@ -1,7 +1,7 @@
 <?php
 
 $redis = new redis();
-$redis->connect('192.168.244.128',6379);
-$redis->auth('aabbcc');
+$redis->connect('127.0.0.1',6379);
+// $redis->auth('aabbcc');
 
 ?>
