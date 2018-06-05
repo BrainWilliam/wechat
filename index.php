@@ -7,7 +7,7 @@ echo $echostr;die;*/
 include 'function.php';
 include 'tmp.php';
 
-
+diaodiao;
 
 $data = file_get_contents('php://input');
 
